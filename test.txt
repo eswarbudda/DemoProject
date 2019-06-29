@@ -1,2 +1,3 @@
 test file in remote repo
 new line 1
+text to be reset
