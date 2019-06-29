@@ -1,3 +1,4 @@
 test file in remote repo
 new line 1
-text to be reset
+text to be reset - merge this change
+
